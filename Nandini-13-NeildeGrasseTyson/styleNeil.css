@@ -1,0 +1,26 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+}
+#heading{
+    -webkit-background-clip: text;
+    font-weight: 900;
+    -webkit-text-fill-color: transparent;
+    background-image: url(https://cdn.spacetelescope.org/archives/images/thumb300y/heic1509a.jpg);
+}
+h2{
+    font-weight: 900;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+    color: rgb(7, 7, 80);
+}
+a:hover{
+    color: rgb(0, 166, 221);
+}
